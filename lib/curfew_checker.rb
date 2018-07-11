@@ -1,6 +1,6 @@
 def simple_curfew_checker(time)
   if time >= 11
-    puts "bedtime!"
+    puts "You're in trouble"
   end
 end
 
